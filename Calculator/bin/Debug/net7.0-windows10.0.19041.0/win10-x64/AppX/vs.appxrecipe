@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-21T18:53:14.893</Modified>
+      <Modified>2023-05-21T19:28:44.223</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-21T18:53:14.187</Modified>
+      <Modified>2023-05-21T19:28:41.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Calculator.runtimeconfig.json">
       <PackagePath>Calculator.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-21T18:53:13.767</Modified>
+      <Modified>2023-05-21T19:19:29.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Calculator.dll">
       <PackagePath>Calculator.dll</PackagePath>
-      <Modified>2023-05-21T18:53:10.225</Modified>
+      <Modified>2023-05-21T19:28:39.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Calculator.exe</PackagePath>
-      <Modified>2023-05-21T18:53:10.272</Modified>
+      <Modified>2023-05-21T19:28:39.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\JOHN\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -919,7 +919,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Calculator.deps.json">
       <PackagePath>Calculator.deps.json</PackagePath>
-      <Modified>2023-05-21T18:53:14.599</Modified>
+      <Modified>2023-05-21T19:28:43.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\PROGRAM FILES\DOTNET\packs\Microsoft.Maui.Controls.Ref.win\7.0.81\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -939,23 +939,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:56.905</Modified>
+      <Modified>2023-05-21T19:19:24.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:56.929</Modified>
+      <Modified>2023-05-21T19:19:24.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:56.962</Modified>
+      <Modified>2023-05-21T19:19:24.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.012</Modified>
+      <Modified>2023-05-21T19:19:25.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.214</Modified>
+      <Modified>2023-05-21T19:19:25.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -967,207 +967,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-05-21T17:28:57.376</Modified>
+      <Modified>2023-05-21T19:19:25.311</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.925</Modified>
+      <Modified>2023-05-21T19:19:25.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.945</Modified>
+      <Modified>2023-05-21T19:19:25.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.966</Modified>
+      <Modified>2023-05-21T19:19:25.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.994</Modified>
+      <Modified>2023-05-21T19:19:25.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:58.104</Modified>
+      <Modified>2023-05-21T19:19:25.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.567</Modified>
+      <Modified>2023-05-21T19:19:25.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.576</Modified>
+      <Modified>2023-05-21T19:19:25.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.603</Modified>
+      <Modified>2023-05-21T19:19:25.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.582</Modified>
+      <Modified>2023-05-21T19:19:25.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.589</Modified>
+      <Modified>2023-05-21T19:19:25.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.517</Modified>
+      <Modified>2023-05-21T19:19:25.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.526</Modified>
+      <Modified>2023-05-21T19:19:25.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.559</Modified>
+      <Modified>2023-05-21T19:19:25.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.534</Modified>
+      <Modified>2023-05-21T19:19:25.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.545</Modified>
+      <Modified>2023-05-21T19:19:25.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.400</Modified>
+      <Modified>2023-05-21T19:19:25.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.408</Modified>
+      <Modified>2023-05-21T19:19:25.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.419</Modified>
+      <Modified>2023-05-21T19:19:25.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.427</Modified>
+      <Modified>2023-05-21T19:19:25.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.455</Modified>
+      <Modified>2023-05-21T19:19:25.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.463</Modified>
+      <Modified>2023-05-21T19:19:25.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.470</Modified>
+      <Modified>2023-05-21T19:19:25.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.509</Modified>
+      <Modified>2023-05-21T19:19:25.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.484</Modified>
+      <Modified>2023-05-21T19:19:25.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.492</Modified>
+      <Modified>2023-05-21T19:19:25.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.730</Modified>
+      <Modified>2023-05-21T19:19:25.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.740</Modified>
+      <Modified>2023-05-21T19:19:25.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.753</Modified>
+      <Modified>2023-05-21T19:19:25.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.769</Modified>
+      <Modified>2023-05-21T19:19:25.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.801</Modified>
+      <Modified>2023-05-21T19:19:25.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.676</Modified>
+      <Modified>2023-05-21T19:19:25.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.685</Modified>
+      <Modified>2023-05-21T19:19:25.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.693</Modified>
+      <Modified>2023-05-21T19:19:25.558</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.704</Modified>
+      <Modified>2023-05-21T19:19:25.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.720</Modified>
+      <Modified>2023-05-21T19:19:25.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.628</Modified>
+      <Modified>2023-05-21T19:19:25.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.638</Modified>
+      <Modified>2023-05-21T19:19:25.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.645</Modified>
+      <Modified>2023-05-21T19:19:25.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.654</Modified>
+      <Modified>2023-05-21T19:19:25.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.668</Modified>
+      <Modified>2023-05-21T19:19:25.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.811</Modified>
+      <Modified>2023-05-21T19:19:25.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.822</Modified>
+      <Modified>2023-05-21T19:19:25.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.837</Modified>
+      <Modified>2023-05-21T19:19:25.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.862</Modified>
+      <Modified>2023-05-21T19:19:25.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.910</Modified>
+      <Modified>2023-05-21T19:19:25.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.509</Modified>
+      <Modified>2023-05-21T19:19:25.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.532</Modified>
+      <Modified>2023-05-21T19:19:25.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.562</Modified>
+      <Modified>2023-05-21T19:19:25.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.602</Modified>
+      <Modified>2023-05-21T19:19:25.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\calculadoraMaui\Calculadora-en-MAUI\Calculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-05-21T17:28:57.713</Modified>
+      <Modified>2023-05-21T19:19:25.590</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
